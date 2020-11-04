@@ -1,7 +1,6 @@
 // src/About.jsx
 import React from "react";
 import { Container, Grid } from "semantic-ui-react";
-import { UndrawDesignerLife } from "react-undraw-illustrations";
 
 const About = () => {
   return (
@@ -9,7 +8,6 @@ const About = () => {
       <Grid>
         <Grid.Row columns={2}>
           <Grid.Column>
-            <UndrawDesignerLife />
           </Grid.Column>
           <Grid.Column>
             <h1 id="about-header">About Me</h1>

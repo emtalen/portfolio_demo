@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import axios from "axios";
 // src/Projects.jsx
 import { Container, Grid } from "semantic-ui-react";
-import { UndrawDashboard } from "react-undraw-illustrations";
 import ProjectCard from "./ProjectCard";
 
 class Projects extends Component {
@@ -35,7 +34,6 @@ class Projects extends Component {
         <Grid>
           <Grid.Row columns={2}>
             <Grid.Column>
-              <UndrawDashboard />
             </Grid.Column>
             <Grid.Column>
               <h1 id="projects-header">My Projects</h1>
