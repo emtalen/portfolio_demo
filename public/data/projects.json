@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "My first Website",
+    "image": "https://blog.galvanize.com/wp-content/uploads/2018/11/bigstock-Real-Python-Code-Developing-Sc-217216531-710x530.jpg",
+    "description": "This is my first website"
+  },
+  {
+    "id": 2,
+    "name": "FizzBuzz",
+    "image": "https://blog.galvanize.com/wp-content/uploads/2018/11/bigstock-Real-Python-Code-Developing-Sc-217216531-710x530.jpg",
+    "description": "This is my first website"
+  },
+  {
+    "id": 3,
+    "name": "Cool mobile app",
+    "image": "https://blog.galvanize.com/wp-content/uploads/2018/11/bigstock-Real-Python-Code-Developing-Sc-217216531-710x530.jpg",
+    "description": "This is my first mobile app"
+  }
+]
