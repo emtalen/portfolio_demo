@@ -13,6 +13,14 @@ footer {
   text-align: center;
 }
 
-.container {
+/* .container {
   margin-top: 4em;
+} */
+
+.hello-container {
+  width: 100%;
+  height: 100vh;
+  background-image: url('https://blog.galvanize.com/wp-content/uploads/2018/11/bigstock-Real-Python-Code-Developing-Sc-217216531-710x530.jpg');
+  background-size: cover;
+  margin-top: 0;
 }
